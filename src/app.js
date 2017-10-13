@@ -1,7 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+var e = <h1>Hello</h1>;
 ReactDOM.render(
-    <h1>Hello, world!</h1>,
+    e,
     document.getElementById('root')
 );
